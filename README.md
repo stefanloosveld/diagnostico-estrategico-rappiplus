@@ -1,6 +1,7 @@
 # 📊 Diagnóstico estratégico integral para RappiPlus
 
 **Proyecto final del bootcamp de Data Analyst de TripleTen** · Python · SQL · Estadística · Power BI
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stefanloosveld/diagnostico-estrategico-rappiplus/blob/main/notebook/RappiPlus_Proyecto_Final.ipynb)
 
 Análisis de punta a punta de un servicio de delivery por suscripción: desde la **limpieza de datos** hasta un **dashboard ejecutivo**, pasando por rentabilidad, funnel de conversión, retención por cohortes y un test A/B. El objetivo es responder una pregunta de negocio en cada etapa y terminar con **recomendaciones priorizadas**.
 
